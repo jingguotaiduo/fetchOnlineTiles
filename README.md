@@ -9,3 +9,6 @@ python main.py
 # 3、See results
 <img src="./results.gif" width="100%">
 <center><strong>The process of executation</center>
+
+# 4、Rules
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;z/y/x
